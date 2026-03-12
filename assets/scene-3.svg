@@ -1,0 +1,26 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#08141A"/>
+  <rect width="1600" height="1200" fill="url(#paint0_linear_3_2)"/>
+  <circle cx="1362" cy="214" r="206" fill="#3BC0A2" fill-opacity="0.12"/>
+  <circle cx="258" cy="978" r="264" fill="#F28B50" fill-opacity="0.14"/>
+  <rect x="152" y="160" width="1296" height="880" rx="44" fill="#102E39" fill-opacity="0.74" stroke="#AADFD0" stroke-opacity="0.2" stroke-width="4"/>
+  <rect x="238" y="248" width="1124" height="704" rx="28" fill="#08141A" fill-opacity="0.26"/>
+  <rect x="308" y="310" width="458" height="562" rx="24" fill="#F4F8F5" fill-opacity="0.05"/>
+  <rect x="832" y="310" width="456" height="562" rx="24" fill="#F4F8F5" fill-opacity="0.05"/>
+  <rect x="388" y="384" width="300" height="420" rx="28" fill="#0F2128" stroke="#AADFD0" stroke-opacity="0.18" stroke-width="4"/>
+  <rect x="424" y="432" width="228" height="52" rx="16" fill="#F4F8F5" fill-opacity="0.14"/>
+  <rect x="424" y="518" width="172" height="20" rx="10" fill="#F4F8F5" fill-opacity="0.16"/>
+  <rect x="424" y="562" width="204" height="20" rx="10" fill="#F4F8F5" fill-opacity="0.12"/>
+  <rect x="424" y="606" width="190" height="20" rx="10" fill="#F4F8F5" fill-opacity="0.12"/>
+  <circle cx="1060" cy="544" r="132" fill="#FFD166" fill-opacity="0.12" stroke="#FFD166" stroke-opacity="0.38" stroke-width="8"/>
+  <path d="M1060 466V560" stroke="#FFD166" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="1060" cy="652" r="18" fill="#FFD166"/>
+  <text x="264" y="918" fill="#F3FBF8" font-family="Arial, sans-serif" font-size="66" font-weight="700">Wait for official instructions</text>
+  <text x="264" y="984" fill="#C5D8D5" font-family="Arial, sans-serif" font-size="34">Placeholder scene: at-home guidance after possible exposure</text>
+  <defs>
+    <linearGradient id="paint0_linear_3_2" x1="176" y1="132" x2="1466" y2="1070" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12313C"/>
+      <stop offset="1" stop-color="#1B535A"/>
+    </linearGradient>
+  </defs>
+</svg>

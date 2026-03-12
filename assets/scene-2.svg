@@ -1,0 +1,26 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#07141A"/>
+  <rect width="1600" height="1200" fill="url(#paint0_linear_2_2)"/>
+  <circle cx="1195" cy="258" r="180" fill="#FFD166" fill-opacity="0.12"/>
+  <circle cx="274" cy="988" r="250" fill="#3BC0A2" fill-opacity="0.16"/>
+  <rect x="140" y="170" width="1320" height="860" rx="48" fill="#112F39" fill-opacity="0.74" stroke="#AADFD0" stroke-opacity="0.2" stroke-width="4"/>
+  <rect x="240" y="250" width="1120" height="700" rx="28" fill="#08141A" fill-opacity="0.32"/>
+  <rect x="318" y="290" width="524" height="500" rx="22" fill="#F4F8F5" fill-opacity="0.05"/>
+  <rect x="858" y="290" width="422" height="500" rx="22" fill="#F4F8F5" fill-opacity="0.05"/>
+  <path d="M801 258V844" stroke="#AADFD0" stroke-opacity="0.14" stroke-width="12" stroke-linecap="round"/>
+  <rect x="642" y="640" width="128" height="104" rx="18" fill="#F28B50" fill-opacity="0.18" stroke="#FF7C70" stroke-opacity="0.5" stroke-width="4"/>
+  <circle cx="706" cy="584" r="32" fill="#FFD166"/>
+  <path d="M706 524V554" stroke="#FFD166" stroke-width="14" stroke-linecap="round"/>
+  <path d="M676 560H736" stroke="#FFD166" stroke-width="14" stroke-linecap="round"/>
+  <path d="M685 640C685 640 670 615 674 588C678 561 706 548 706 548C706 548 736 561 738 589C740 617 727 640 727 640" fill="#FFD166" fill-opacity="0.34"/>
+  <path d="M270 884H798" stroke="#F4F8F5" stroke-opacity="0.14" stroke-width="10" stroke-linecap="round"/>
+  <path d="M860 884H1266" stroke="#F4F8F5" stroke-opacity="0.14" stroke-width="10" stroke-linecap="round"/>
+  <text x="250" y="904" fill="#F3FBF8" font-family="Arial, sans-serif" font-size="66" font-weight="700">Avoid and report the container</text>
+  <text x="250" y="970" fill="#C5D8D5" font-family="Arial, sans-serif" font-size="34">Placeholder scene: doorway, object, odor concern</text>
+  <defs>
+    <linearGradient id="paint0_linear_2_2" x1="176" y1="124" x2="1451" y2="1086" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10313D"/>
+      <stop offset="1" stop-color="#1B5158"/>
+    </linearGradient>
+  </defs>
+</svg>

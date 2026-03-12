@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Choosing the Safest Action</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <div class="ambient-glow ambient-glow-a" aria-hidden="true"></div>
+    <div class="ambient-glow ambient-glow-b" aria-hidden="true"></div>
+
+    <section class="stage" aria-label="Choosing the Safest Action interaction">
+      <header class="hud">
+        <div class="hud-copy">
+          <p class="eyebrow">Interactive Story Check</p>
+          <h1>Choosing the Safest Action</h1>
+          <p class="lede">Move through the incident step by step and choose the safest response at each moment.</p>
+        </div>
+
+        <div class="hud-meta">
+          <div class="progress-block">
+            <span id="progressLabel">Situation 1 of 4</span>
+            <div class="progress-track" aria-hidden="true">
+              <div class="progress-fill" id="progressFill"></div>
+            </div>
+          </div>
+          <div class="score-pill">Safe Choices <strong id="scoreValue">0</strong>/4</div>
+        </div>
+      </header>
+
+      <section class="card scenario-card" id="scenarioCard">
+        <div class="visual-panel">
+          <div class="image-frame">
+            <img id="scenarioImage" alt="">
+            <div class="image-overlay">
+              <span class="scenario-tag" id="scenarioTag">Situation 1</span>
+              <p id="scenarioPromptShort"></p>
+            </div>
+          </div>
+
+          <aside class="briefing-panel">
+            <p class="section-label">Safety Brief</p>
+            <p id="briefingText">Choose the action that best protects you and others. Follow instructions, avoid investigation, and rely on official guidance.</p>
+          </aside>
+        </div>
+
+        <div class="content-panel">
+          <div class="story-rail">
+            <p class="section-label">Story Moment</p>
+            <div class="story-chip-row">
+              <span class="story-chip" id="storyChipPhase">Phase</span>
+              <span class="story-chip story-chip-outline" id="storyChipFocus">Focus</span>
+            </div>
+          </div>
+
+          <div class="question-copy">
+            <p class="section-label">Scenario</p>
+            <p class="scenario-text" id="scenarioText"></p>
+            <h2 id="questionText"></h2>
+          </div>
+
+          <div class="choices" id="choices" role="list"></div>
+
+          <div class="feedback" id="feedback" aria-live="polite"></div>
+
+          <div class="actions">
+            <button class="ghost-button" id="prevButton" type="button">Previous</button>
+            <button class="primary-button" id="nextButton" type="button" disabled>Check Answer</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="card result-card hidden" id="resultCard">
+        <div class="result-hero">
+          <p class="eyebrow">Scenario Complete</p>
+          <h2 id="resultHeadline"></h2>
+          <p id="resultSummary"></p>
+        </div>
+
+        <div class="result-grid" id="resultGrid"></div>
+
+        <div class="actions">
+          <button class="primary-button" id="restartButton" type="button">Restart Story</button>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

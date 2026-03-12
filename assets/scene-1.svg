@@ -1,0 +1,25 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#0A1A21"/>
+  <rect width="1600" height="1200" fill="url(#paint0_linear_1_2)"/>
+  <circle cx="1294" cy="204" r="204" fill="#F28B50" fill-opacity="0.16"/>
+  <circle cx="323" cy="929" r="290" fill="#3BC0A2" fill-opacity="0.18"/>
+  <rect x="164" y="180" width="1272" height="810" rx="42" fill="#143A45" fill-opacity="0.72" stroke="#AADFD0" stroke-opacity="0.22" stroke-width="4"/>
+  <rect x="226" y="258" width="856" height="566" rx="28" fill="#F4F8F5" fill-opacity="0.06"/>
+  <rect x="266" y="302" width="186" height="42" rx="21" fill="#FFD166" fill-opacity="0.16"/>
+  <rect x="266" y="382" width="520" height="34" rx="17" fill="#F4F8F5" fill-opacity="0.22"/>
+  <rect x="266" y="434" width="654" height="34" rx="17" fill="#F4F8F5" fill-opacity="0.14"/>
+  <rect x="266" y="486" width="472" height="34" rx="17" fill="#F4F8F5" fill-opacity="0.14"/>
+  <rect x="1132" y="268" width="190" height="434" rx="22" fill="#08141A" fill-opacity="0.62" stroke="#FFD166" stroke-opacity="0.4" stroke-width="4"/>
+  <path d="M1228 736C1228 736 1227.25 515.147 1228 442C1228.56 387.433 1261.24 343.045 1302 343.045C1342.76 343.045 1375 387.433 1375 442C1375 514.998 1374 736 1374 736" stroke="#FFD166" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="1302" cy="520" r="28" fill="#FFD166"/>
+  <path d="M1086 814H1324" stroke="#AADFD0" stroke-opacity="0.24" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1140 870H1268" stroke="#AADFD0" stroke-opacity="0.24" stroke-width="8" stroke-linecap="round"/>
+  <text x="264" y="905" fill="#F3FBF8" font-family="Arial, sans-serif" font-size="72" font-weight="700">Leave by the directed exit</text>
+  <text x="264" y="973" fill="#C5D8D5" font-family="Arial, sans-serif" font-size="34">Placeholder scene: shared office evacuation</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="160" y1="112" x2="1451" y2="1074" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10313D"/>
+      <stop offset="1" stop-color="#1F5C63"/>
+    </linearGradient>
+  </defs>
+</svg>
